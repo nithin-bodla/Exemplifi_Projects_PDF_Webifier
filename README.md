@@ -17,7 +17,7 @@ Make sure you have **Python 3.8 or higher** installed on your system.
 1. **Clone or download** this project folder to your local machine.
 2. **Open your Terminal** and navigate to the project directory:
    ```bash
-   cd /Users/nithinbodla/Downloads/PDF-to-HTML-Automation
+   cd {Path where the file located}
    ```
 3. **Install the required Python modules**:
    ```bash
